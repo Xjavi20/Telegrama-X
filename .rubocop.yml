@@ -17,13 +17,13 @@ Style/HashTransformKeys:
 Style/HashTransformValues:
   Enabled: true
 Style/Documentation:
-  Enabled: false
+  Enabled: true
 Naming/MethodParameterName:
-  Enabled: false
+  Enabled: true
 Style/MultilineIfModifier:
-  Enabled: false
+  Enabled: true
 Performance/Detect:
-  Enabled: false
+  Enabled: true
 Layout/FirstArrayElementLineBreak:
   Enabled: true
 Layout/FirstHashElementIndentation:
